@@ -1,4 +1,4 @@
-# GitCore---Custom-Git-Version-Control-System
+# GitCore - Custom Git Version Control System
 
 # Build Your Own Git Client
 
