@@ -1,4 +1,4 @@
-# Git.py - Simple Version Control System
+# GitCore - Simple Version Control System
 
 A lightweight, Python-based implementation of core Git functionality for educational purposes and basic version control needs.
 
