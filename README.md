@@ -154,6 +154,16 @@ The implementation includes basic error handling for:
 - Invalid repository states
 - File I/O errors
 
+## Future Work
+
+Intelligent Test Case Generation: Integration with AI models (like Gemini or GPT) to automatically generate comprehensive unit tests for committed code
+- Analyze code changes in commits to identify testable functions and methods
+- Generate test cases covering happy paths, edge cases, and error conditions
+- Create tests that match the coding style and patterns of the existing codebase
+- Support for multiple testing frameworks (unittest, pytest, etc.)
+- Integration with git show to generate tests for specific commits
+- Automatic test file creation following naming conventions
+
 ## Contributing
 
 This is an educational implementation. For production use cases, consider using the official Git client or more robust Python Git libraries like GitPython.
